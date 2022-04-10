@@ -2,13 +2,13 @@
 
 ## Overview
 
-- In this analysis, we look specifically at Amazon video game reviews, and see if there's any material difference in 5-star reviews for both paid vine reviews and unpaid vine reviews in their video game selection.
+- In this analysis, we look specifically at Amazon video game reviews, and see if there's any material difference in 5-star review trend for both paid reviews and unpaid reviews in their video game merchandise offering.
 
 ## Results
 
 ### Count of total reviews
 
-- In total, there were xx total video games views, inclusive of paid and unpaid reviews.
+- In total, there were 37,921 total video games views, inclusive of paid and unpaid reviews.
 
 ![](Resources/Total_Reviews.png)
 
